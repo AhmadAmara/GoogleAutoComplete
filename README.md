@@ -2,7 +2,7 @@
 
 I implemented the funtion :
 
-vector<AutoCompleteData> GetBestKCompletions(const string& prefix);
+vector<AutoCompleteData> GetBestKCompletions(const string& prefix).
 which returns the best 5 matches for the given prefix.
 
 ## output example:
