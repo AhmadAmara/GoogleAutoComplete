@@ -6,7 +6,7 @@ vector<AutoCompleteData> GetBestKCompletions(const string& prefix);
 which returns the best 5 matches for the given prefix.
 
 ## output example:
-![text](https://github.com/AhmadAmara/GoogleAutoComplete/blob/master/autocomplete%20sample%20results)
+[Output example](https://github.com/AhmadAmara/GoogleAutoComplete/blob/master/autocomplete%20sample%20results)
 
 
 ## Run:
